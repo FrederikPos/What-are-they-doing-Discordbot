@@ -33,4 +33,4 @@ client.on('message', message =>{
     }
 ,); 
 
-    client.login('NzkxMzQ1MTAxMjk2NTAwNzQ3.X-Nzjg.EckofOpd0Z45L6_U4SNEArpus_4');
+    client.login('only tayon has this in his file no one else :)');
