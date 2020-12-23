@@ -1,2 +1,2 @@
 # What-is-he-doing-Discordbot
-WIP (no one can commit yet)
+This is a WIP! No one can commit yet, this readme will be updated when the bot is finished and then people can commit.
